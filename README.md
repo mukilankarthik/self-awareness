@@ -448,8 +448,6 @@ See [LICENSE](LICENSE) for full details.
 
 ## Acknowledgments
 
-Built collaboratively with Claude, for Claude.
-
 Special thanks to the AI safety research community for documenting these failure patterns and making LLMs more reliable through systematic observation.
 
 ---
