@@ -1,0 +1,25 @@
+{
+  "name": "self-awareness",
+  "description": "Behavioral calibration system that helps Claude catch its own failure patterns in real-time. Triggers on every response to run self-checks for verbosity compensation, hallucination risk, missed frustration signals, sycophantic patterns, and constraint violations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mukilan Karthik"
+  },
+  "homepage": "https://github.com/mukilankarthik/self-awareness",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukilankarthik/self-awareness.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "self-awareness",
+    "calibration",
+    "failure-detection",
+    "hallucination-prevention",
+    "behavioral",
+    "ai-safety",
+    "verbosity",
+    "honesty"
+  ],
+  "category": "productivity"
+}

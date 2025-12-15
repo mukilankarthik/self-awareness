@@ -11,3 +11,10 @@ desktop.ini
 *.tmp
 *.temp
 ~$*
+
+# Local configuration (not for marketplace)
+.claude/settings.local.json
+
+# Build artifacts
+*.docx
+*.doc
